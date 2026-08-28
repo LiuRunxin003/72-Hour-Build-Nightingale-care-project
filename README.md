@@ -4,8 +4,7 @@
 
 Click the image below to watch the project demonstration on YouTube.
 
-[![Watch the demo video](docs/demo-cover.png)](https://youtu.be/jOY85FPJeDA?si=O7jt4WmfVNw4SX_E)
-Working MVP for a shared longitudinal clinical note. Synthetic data only.
+[![Watch the demo video](demo.png)](https://youtu.be/jOY85FPJeDA?si=O7jt4WmfVNw4SX_E)
 
 ## Included
 
