@@ -6,7 +6,9 @@ Click the image below to watch the project demonstration on YouTube.
 
 <a href="https://youtu.be/jOY85FPJeDA?si=O7jt4WmfVNw4SX_E">
   <img src="demo.png" alt="Watch the project demonstration" width="800">
-</a>
+</a>]
+
+
 ## Included
 
 - Demo lock screen (username 111, password 124)
