@@ -40,3 +40,10 @@ next-env.d.ts
 /.sites-runtime/
 /outputs/
 /work/
+tsconfig.tsbuildinfo
+
+# python
+backend/.venv/
+.pytest_cache/
+__pycache__/
+*.pyc
