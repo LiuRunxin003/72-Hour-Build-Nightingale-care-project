@@ -1,0 +1,12 @@
+Nightingale Care Note — External Software Attribution
+
+Next.js — MIT — https://github.com/vercel/next.js
+React — MIT — https://github.com/facebook/react
+Tailwind CSS — MIT — https://github.com/tailwindlabs/tailwindcss
+FastAPI — MIT — https://github.com/fastapi/fastapi
+Pydantic — MIT — https://github.com/pydantic/pydantic
+Uvicorn — BSD-3-Clause — https://github.com/encode/uvicorn
+pytest — MIT — https://github.com/pytest-dev/pytest
+SQLite — Public Domain — https://sqlite.org/copyright.html
+
+No external clinical dataset or model is bundled. All patient data is synthetic.
