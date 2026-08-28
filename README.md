@@ -26,6 +26,9 @@ The browser uses representative demo data. The FastAPI service contains the enfo
 
 The username/password lock is intentionally a client-side candidate-demo gate, not production authentication. Production must use server-side identity, secure password hashing or SSO, sessions, rate limits, and audit logging.
 
+
+
+
 ## Requirements
 
 - Node.js 22+
